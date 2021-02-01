@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af13b5b4f5faec639c742f65a60d0b17",
+    "revision": "6aa4780a39f378d4352b287f200ba4c4",
     "url": "/MittGymnasieArbete/index.html"
   },
   {
-    "revision": "8a53005438c5e393c6b6",
-    "url": "/MittGymnasieArbete/static/css/main.90153fae.chunk.css"
+    "revision": "d3872eecdec7ba2cb47b",
+    "url": "/MittGymnasieArbete/static/css/main.137ea417.chunk.css"
   },
   {
     "revision": "4153dcb9e30748db5b9a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MittGymnasieArbete/static/js/2.e6a65e7c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a53005438c5e393c6b6",
+    "revision": "d3872eecdec7ba2cb47b",
     "url": "/MittGymnasieArbete/static/js/main.7ca11fd4.chunk.js"
   },
   {

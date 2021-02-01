@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MittGymnasieArbete/static/css/main.90153fae.chunk.css",
+    "main.css": "/MittGymnasieArbete/static/css/main.137ea417.chunk.css",
     "main.js": "/MittGymnasieArbete/static/js/main.7ca11fd4.chunk.js",
     "main.js.map": "/MittGymnasieArbete/static/js/main.7ca11fd4.chunk.js.map",
     "runtime-main.js": "/MittGymnasieArbete/static/js/runtime-main.288cb55b.js",
@@ -8,9 +8,9 @@
     "static/js/2.e6a65e7c.chunk.js": "/MittGymnasieArbete/static/js/2.e6a65e7c.chunk.js",
     "static/js/2.e6a65e7c.chunk.js.map": "/MittGymnasieArbete/static/js/2.e6a65e7c.chunk.js.map",
     "index.html": "/MittGymnasieArbete/index.html",
-    "precache-manifest.0eb3965d3668b13c9dee3bb1b44cd360.js": "/MittGymnasieArbete/precache-manifest.0eb3965d3668b13c9dee3bb1b44cd360.js",
+    "precache-manifest.56f67de0d646dc58f1ef45c868f458b2.js": "/MittGymnasieArbete/precache-manifest.56f67de0d646dc58f1ef45c868f458b2.js",
     "service-worker.js": "/MittGymnasieArbete/service-worker.js",
-    "static/css/main.90153fae.chunk.css.map": "/MittGymnasieArbete/static/css/main.90153fae.chunk.css.map",
+    "static/css/main.137ea417.chunk.css.map": "/MittGymnasieArbete/static/css/main.137ea417.chunk.css.map",
     "static/js/2.e6a65e7c.chunk.js.LICENSE.txt": "/MittGymnasieArbete/static/js/2.e6a65e7c.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/MittGymnasieArbete/static/media/Trees.4fcefad7.svg",
     "static/media/Contact.css": "/MittGymnasieArbete/static/media/envelope.b0ec457f.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.288cb55b.js",
     "static/js/2.e6a65e7c.chunk.js",
-    "static/css/main.90153fae.chunk.css",
+    "static/css/main.137ea417.chunk.css",
     "static/js/main.7ca11fd4.chunk.js"
   ]
 }
