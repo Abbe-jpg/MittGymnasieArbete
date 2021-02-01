@@ -201,6 +201,20 @@
     animation: text-fade-in 1000ms 800ms forwards;
   }
 
+  #welcome-section .container h1 {
+    font-size: 3rem;
+    font-weight: normal;
+    font-style: italic;
+    color: #fafafa;
+    line-height: 3.7rem;
+  }
+
+  #welcome-section .container .buttons {
+    display: flex;
+    margin-top: 180px;
+  }
+  
+
   @keyframes text-fade-in {
     from {
       right: 0;
