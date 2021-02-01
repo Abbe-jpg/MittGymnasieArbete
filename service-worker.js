@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MittGymnasieArbete/precache-manifest.56f67de0d646dc58f1ef45c868f458b2.js"
+  "/MittGymnasieArbete/precache-manifest.ebc85dfaf14ccd7bf210b41372c28aa8.js"
 );
 
 self.addEventListener('message', (event) => {
